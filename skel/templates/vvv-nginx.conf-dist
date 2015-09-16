@@ -12,7 +12,7 @@ server {
     # value of `{vvv_path_to_folder}/public` this
     # will be auto-magically transformed to
     # `/srv/www/foo/public`.
-    root            {vvv_path_to_folder}/public;
+    root            {vvv_path_to_folder};
 
     location / {
         index index.php index.html index.htm;
