@@ -1,6 +1,6 @@
 {
-    "name": "october/october",
-    "description": "October CMS",
+    "name": "ehlovader/vvv-october",
+    "description": "VVV wrapper for October CMS",
     "homepage": "http://octobercms.com",
     "keywords": ["october", "cms", "octobercms", "laravel"],
     "license": "MIT",
